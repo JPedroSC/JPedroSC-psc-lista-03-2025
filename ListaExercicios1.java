@@ -1,6 +1,6 @@
 import java.util.Scanner; import java.util.Random;
 
-public class ListaExercicios { public static void main(String[] args) { Scanner scanner = new Scanner(System.in);
+public class ListaExercicios1 { public static void main(String[] args) { Scanner scanner = new Scanner(System.in);
 
 System.out.println("Digite três números:");
     double num1 = scanner.nextDouble();
